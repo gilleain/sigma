@@ -1,0 +1,2 @@
+aws lambda invoke --function-name java-basic-function-mbcc56LOEGuO --payload file://non_iso.json out.json
+aws lambda invoke --function-name java-basic-function-mbcc56LOEGuO --payload file://iso.json out.json
