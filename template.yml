@@ -7,7 +7,7 @@ Resources:
     Properties:
       CodeUri: target/sigma-0.0.1-SNAPSHOT.jar
       Handler: net.torrance.gilleain.sigma.IsomorphismHandler
-      Runtime: java8
+      Runtime: java11
       Description: Java function
       MemorySize: 512
       Timeout: 10
